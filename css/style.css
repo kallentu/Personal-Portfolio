@@ -1,0 +1,99 @@
+.navbar-default .navbar-nav:hover,
+.navbar-default .navbar-nav:focus {
+    color: #6792AB;
+}
+.navbar-default .navbar-nav > li > a{
+  color: #6792AB;
+  font-size: 1.3em;
+  line-height: 60px;
+  height: 60px;
+  padding-top: 0;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #333;
+    background-color: #E7E7E7;
+}
+.jumbotron {
+  background-image: url('http://cdn2-www.craveonline.com/assets/uploads/gallery/new-witcher-3-screens-1215/z0qyml0.jpg');
+  background-attachment: fixed;
+}
+body {
+  font-family: News Cycle;
+}
+h1 {
+  margin-left: 10px;
+  color: #6792AB !important;
+}
+h2 {
+  margin-left: 10px;
+  color: #6792AB;
+}
+p {
+  margin-left: 10px;
+}
+img {
+  border: 2px solid white;
+  border-radius: 6px;
+  margin: 30px;
+  opacity: 0.8;
+}
+img:hover {
+  opacity: 1;
+}
+.btn {
+  margin-right: 5px;
+  background: none;
+  font-size: 1.2em;
+  padding: 10px 20px 10px 20px;
+}
+.btn-primary.outline:hover {
+  background-color: white;
+  color: #6792AB;
+  border: 2px solid white;
+}
+.btn.outline {
+	background: none;
+}
+.btn-primary.outline {
+	border: 2px solid #FFFFFF;
+	color: #FFFFFF;
+}
+.submit-btn {
+  width: 400px;
+}
+.well {
+  border-radius: 0 !important;
+  margin: 0px;
+  background-color:rgba(255,255,255,0.6); 
+  border: 0px;
+}
+form {
+  overflow: hidden;
+}
+input {
+  width: 400px;
+  border: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 10px;
+  color: #6792AB;
+}
+textarea {
+  height: 200px;
+  width: 400px;
+  border: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 10px;
+  color: #6792AB;
+}
+textarea:focus, input:focus{
+    outline: none;
+}
+.social {
+  margin-top: 100px;
+}
+.extra-margin {
+  margin-top: 20px;
+}
